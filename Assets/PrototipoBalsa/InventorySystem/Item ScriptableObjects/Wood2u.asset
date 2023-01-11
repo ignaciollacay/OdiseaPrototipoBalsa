@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c771c438c85e44e4944c9815eadc1ef, type: 3}
+  m_Name: Wood2u
+  m_EditorClassIdentifier: 
+  uIItem: {fileID: 21300000, guid: e99c8cf63263743dd837d07b107309c8, type: 3}
+  interactableWorldItem: {fileID: 3235547822108119099, guid: c93263d31bcd44c62812f24a4587d54e, type: 3}
+  pickableWorldItem: {fileID: 6285645400941347893, guid: 6b47fe64bd6dd42bf9c57225f2dd2730, type: 3}
+  type: 0
+  description: Wood with length of 2 units
+  position: 8
+  interactableType: 3
+  data:
+    Name: WoodTwo
+    Id: 8
+    Position: 8
+  isStackable: 1
+  playerRigItem: {fileID: 0}
+  boneNames: []
+  pfPlacedObject: {fileID: 6301331180849607040, guid: 486af0b130490478a9c6567b6081e678, type: 3}
+  visual: {fileID: 1193759163681664779, guid: a7171a6f9f9624eff9255f201d0255fb, type: 3}
+  width: 2
+  height: 1

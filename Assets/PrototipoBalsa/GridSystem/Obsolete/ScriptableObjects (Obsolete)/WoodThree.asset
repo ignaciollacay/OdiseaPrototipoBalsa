@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22ee941d156bd4f1480723401c824a13, type: 3}
+  m_Name: WoodThree
+  m_EditorClassIdentifier: 
+  nameString: WoodThree
+  prefab: {fileID: 6301331180849607040, guid: 43ada4921cc534b5fb62c6283425fe22, type: 3}
+  visual: {fileID: 1099866682959605723, guid: ff49ce06970fa4761ab755c670662880, type: 3}
+  width: 3
+  height: 1

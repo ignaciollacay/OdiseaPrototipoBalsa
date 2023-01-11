@@ -1,19 +1,49 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Interfaces/Test.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualJoystick.cs">
     <Files>
-      <File FileName="Assets/GenericWaitCoroutine.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Interfaces/IItem.cs" Line="15" Column="20" />
-      <File FileName="Assets/Scripts/Interfaces/IDamageable.cs" Line="10" Column="40" />
-      <File FileName="Assets/Scripts/Interfaces/Sword.cs" Line="39" Column="10" />
-      <File FileName="Assets/Scripts/Interfaces/Spear.cs" Line="50" Column="23" />
-      <File FileName="Assets/Scripts/Interfaces/Test.cs" Line="44" Column="1" />
-      <File FileName="Assets/Scripts/Interfaces/Inventory.cs" Line="58" Column="54" />
-      <File FileName="Assets/StarterAssets/InputSystem/StarterAssetsInputsInventory.cs" Line="82" Column="40" />
+      <File FileName="Assets/PrototipoBalsa/InventorySystem/Inventory Scripts/InventorySO.cs" Line="274" Column="24" IsPinned="True" />
+      <File FileName="Assets/PrototipoBalsa/InventorySystem/Inventory Scripts/InventoryUIDynamic.cs" Line="85" Column="18" IsPinned="True" />
+      <File FileName="Assets/PrototipoBalsa/InventorySystem/Inventory Scripts/PlayerInventory.cs" Line="239" Column="28" IsPinned="True" />
+      <File FileName="Assets/PrototipoBalsa/InventorySystem/Inventory Scripts/InventoryUI.cs" IsPinned="True" />
+      <File FileName="Assets/PrototipoBalsa/InventorySystem/Item Scripts/ItemSO.cs" Line="29" Column="48" />
+      <File FileName="Assets/PrototipoBalsa/InventorySystem/Item Scripts/ItemRanged.cs" Line="55" Column="1" />
+      <File FileName="Assets/PrototipoBalsa/InventorySystem/Inventory Scripts/PlayerInventoryController.cs" Line="6" Column="9" />
+      <File FileName="Assets/PrototipoBalsa/Player Interaction System/UIVirtualJoystickInteract.cs" Line="7" Column="51" />
+      <File FileName="Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualJoystick.cs" Line="7" Column="14" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Odisea_Pruebas" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Assets" expanded="True">
+                <Node name="PrototipoBalsa" expanded="True">
+                  <Node name="EquipmentPlayerRig" expanded="True" />
+                  <Node name="InventorySystem" expanded="True">
+                    <Node name="Inventory Scripts" expanded="True" />
+                    <Node name="Item Scripts" expanded="True" />
+                  </Node>
+                  <Node name="Player Interaction System" expanded="True" />
+                </Node>
+                <Node name="StarterAssets" expanded="True">
+                  <Node name="Mobile" expanded="True">
+                    <Node name="Scripts" expanded="True">
+                      <Node name="VirtualInputs" expanded="True">
+                        <Node name="UIVirtualJoystick.cs" selected="True" />
+                      </Node>
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b6efe298-dacd-439a-95f5-0cb1779f1b39" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

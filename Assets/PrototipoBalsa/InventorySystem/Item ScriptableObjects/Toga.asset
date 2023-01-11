@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28d3d214058c948c38010c32b8730472, type: 3}
+  m_Name: Toga
+  m_EditorClassIdentifier: 
+  uIItem: {fileID: 21300000, guid: fd5bedd0447f34b9188c8a138c8370f9, type: 3}
+  interactableWorldItem: {fileID: 4752478864834449436, guid: d516c48c452094ec89e6474cab14877b, type: 3}
+  pickableWorldItem: {fileID: 874445314115093109, guid: 18d6b4fd0956e4299b8dcd0a3c700fcd, type: 3}
+  type: 4
+  description: Basic Equipment
+  position: 2
+  interactableType: 0
+  data:
+    Name: Armor
+    Id: 2
+    Position: 2
+  isStackable: 1
+  playerRigItem: {fileID: 5407675138277844223, guid: 5bb86d7bf2e004a69a415cee71594097, type: 3}
+  boneNames:
+  - Root_M
+  - Hip_R
+  - Spine1_M
+  - joint1_M
+  - Chest_M
+  - Scapula_R
+  - Shoulder_R
+  - ShoulderPart1_R
+  - ShoulderPart2_R
+  - Scapula_L
+  - Shoulder_L
+  - ShoulderPart1_L
+  - ShoulderPart2_L
+  - Hip_L

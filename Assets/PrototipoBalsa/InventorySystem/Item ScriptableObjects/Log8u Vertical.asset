@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c771c438c85e44e4944c9815eadc1ef, type: 3}
+  m_Name: Log8u Vertical
+  m_EditorClassIdentifier: 
+  uIItem: {fileID: 21300000, guid: b41cbd03104bf4f3b9f678003b848982, type: 3}
+  interactableWorldItem: {fileID: 0}
+  pickableWorldItem: {fileID: 8560370532979743922, guid: 0bcc4b120d20b44d2b1df3cc0d4323f5, type: 3}
+  type: 0
+  description: 'Log with length of 8 units
+
+
+    TODO:
+
+    Requires GridXY implementation
+    in GBS. Else width for raftLog must be 1.'
+  position: 8
+  interactableType: 3
+  data:
+    Name: Log8u
+    Id: 4
+    Position: 8
+  isStackable: 1
+  playerRigItem: {fileID: 0}
+  boneNames: []
+  pfPlacedObject: {fileID: 1268061360827548314, guid: 3e56a60af2afd40599319b167b4282f9, type: 3}
+  visual: {fileID: 5839056849525273423, guid: 62d91af3385404354b6117001aa71525, type: 3}
+  width: 1
+  height: 1
